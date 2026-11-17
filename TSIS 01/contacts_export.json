@@ -1,0 +1,117 @@
+[
+    {
+        "first_name": "Aruzhan",
+        "second_name": "Kim",
+        "email": "aruzhan@gmail.com",
+        "birthday": "2006-05-12",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "+77009998877",
+                "type": "mobile"
+            },
+            {
+                "phone": "+77271234567",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "first_name": "Dias",
+        "second_name": "Sultanov",
+        "email": "dias@gmail.com",
+        "birthday": "2005-08-20",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "+77029876543",
+                "type": "mobile"
+            },
+            {
+                "phone": "+77003334455",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "first_name": "Madina",
+        "second_name": "Aliyeva",
+        "email": "madina@gmail.com",
+        "birthday": "2006-03-15",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "+77035551234",
+                "type": "mobile"
+            },
+            {
+                "phone": "+77001112233",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "first_name": "Alikhan",
+        "second_name": "Nur",
+        "email": "alikhan@gmail.com",
+        "birthday": "2005-11-10",
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77047778899",
+                "type": "mobile"
+            },
+            {
+                "phone": "+77005556677",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "first_name": "Dana",
+        "second_name": "Serik",
+        "email": null,
+        "birthday": null,
+        "group": "home",
+        "phones": [
+            {
+                "phone": "+77051234545",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Tomiris",
+        "second_name": "Sailau",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77765432123",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Test",
+        "second_name": "One",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": []
+    },
+    {
+        "first_name": "Test",
+        "second_name": "Three",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "+77005556677",
+                "type": "mobile"
+            }
+        ]
+    }
+]
